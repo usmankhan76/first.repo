@@ -1,2 +1,2 @@
 this is new
-this is new changes in this file by smart git 
+this is new changes in this file.txt by smart git 
