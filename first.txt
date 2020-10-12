@@ -1,3 +1,4 @@
 hellow world
 and my best friends
 add changes in remote repository
+add the changes add by smart git
